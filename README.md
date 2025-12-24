@@ -52,7 +52,7 @@ Built with **Flutter** for cross-platform compatibility and powered by **Firebas
 
 ## 📱 Screenshots
 
-> *Coming soon - Add app screenshots here*
+> *Coming soon -  app screenshots here*
 
 <table>
   <tr>
@@ -342,7 +342,6 @@ Climate change is real, and every action counts. EcoRewards makes it easy and re
 
 - **Email**: goutham3336@gmail.com
 - **GitHub Issues**: [Report bugs or request features](https://github.com/GOUTHAM-2002/EcoRewards/issues)
-- **Twitter**: [@YourTwitterHandle](#) *(Add if available)*
 
 ---
 
